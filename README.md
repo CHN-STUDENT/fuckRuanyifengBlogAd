@@ -12,12 +12,6 @@
 > 修改自[阮一峰 blog ad](https://greasyfork.org/zh-CN/scripts/375685-%E9%98%AE%E4%B8%80%E5%B3%B0-blog-ad) 的匹配地址
 
 ```
-1.adblock plus 自定义列表加入
-
-@@||www.ruanyifeng.com^$csp,domain=www.ruanyifeng.com
-
-2.tampermonkey 加入以下js
-
 // ==UserScript==
 // @name         阮一峰 blog ad
 // @namespace    http://tampermonkey.net/
